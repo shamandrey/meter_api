@@ -9,8 +9,7 @@ pip install -r requirements.txt
 
 ## Запуск
 ```bash
-export FLASK_APP=app/main.py
-flask run
+python run.py
 ```
 
 ## API Endpoints
